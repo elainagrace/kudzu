@@ -1,4 +1,4 @@
-<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+<a href="[https://www.juncture-digital.org](https://www.jstor.org/stable/community.12311944?searchText=kudzu&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dkudzu%26scope%3DeyJpZCI6ICIxMDAxNDY0NjciLCAicGFnZU5hbWUiOiAiQXJ0c3RvciIsICJwYWdlVXJsIjogIi9zaXRlL2FydHN0b3IvIiwgInR5cGUiOiAicG9ydGFsIn0%253D&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Ad1ff63d64131b2c78d6b5eb40ff27872&searchkey=1688063058465)"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 
 <param ve-config 

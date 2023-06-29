@@ -1,4 +1,4 @@
-<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+<a href="[https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png](https://www.jstor.org/stable/community.10733082?searchText=kudzu&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dkudzu%26scope%3DeyJpZCI6ICIxMDAxNDY0NjciLCAicGFnZU5hbWUiOiAiQXJ0c3RvciIsICJwYWdlVXJsIjogIi9zaXRlL2FydHN0b3IvIiwgInR5cGUiOiAicG9ydGFsIn0%253D%26doi%3D10.2307%252Fcommunity.10733083&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A40443b51ce98f3a2beb2d5e5f09f27a3&searchkey=1688062978695)"></a>
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"

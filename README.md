@@ -2,7 +2,9 @@
 
 
 <param ve-config 
-       title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       title="kudzu ghosts"
+       source-image="https://commons.wikimedia.org/wiki/File:Kudzu_graveyard_(51748).jpg"
+       banner="https://commons.wikimedia.org/wiki/File:Kudzu_graveyard_(51748).jpg"
        author="Elaina Foley"
        layout="vertical">
 

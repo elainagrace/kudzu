@@ -3,8 +3,8 @@
 
 <param ve-config 
        title="kudzu ghosts"
-       source-image="[https://commons.wikimedia.org/wiki/File:Kudzu_graveyard_(51748).jpg](https://upload.wikimedia.org/wikipedia/commons/f/f6/Kudzu_graveyard_%2851748%29.jpg)"
-       banner="[https://commons.wikimedia.org/wiki/File:Kudzu_graveyard_(51748).jpg](https://upload.wikimedia.org/wikipedia/commons/f/f6/Kudzu_graveyard_%2851748%29.jpg)"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/f/f6/Kudzu_graveyard_%2851748%29.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/f/f6/Kudzu_graveyard_%2851748%29.jpg"
        author="Elaina Foley"
        layout="vertical">
 

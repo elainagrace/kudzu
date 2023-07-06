@@ -14,7 +14,7 @@
 <param ve-image label="Tree shrouded in kudzu" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/41/Tree_shrouded_in_kudzu_%2840589p%29.jpg">
 <param ve-image label="Kudzu 'King and Queen' in as crowned at a high school in 1945 Alabama" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/8/88/Kudzu_Queen-King.jpg" region="-444,105,2222,1791">
 ### Thinking with Vines
-[_Kudzu_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) has a Latin name.
+[_Kudzu_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) has a Latin name. I won't tell you what it is.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.us01907525">
 <param ve-video vid="BoAetCE_vmY">
 <param ve-entity eid="Q155" title="Brazil">

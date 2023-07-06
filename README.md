@@ -16,6 +16,9 @@
 ### Thinking with Vines
 [_Kudzu_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) has a Latin name. However, very few people know its true name. Neither God nor man would be able to understand it.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.us01907525">
+<param ve-iframe src="https://archive.org/details/CAT87203516/page/n1/mode/2up">
+### Moving with Vines
+View a historic video of kudzu.
 <param ve-video vid="BoAetCE_vmY">
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>

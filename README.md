@@ -13,6 +13,7 @@
 <param ve-image label="Kudzu and House in Tuscaloosa County, Alabama" description="Photograph" license="public domain" url="Kudzu House, Tuscaloosa County.jpg">
 <param ve-image label="Tree shrouded in kudzu" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/41/Tree_shrouded_in_kudzu_%2840589p%29.jpg">
 <param ve-image label="Kudzu 'King and Queen' in as crowned at a high school in 1945 Alabama" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/8/88/Kudzu_Queen-King.jpg" region="-444,105,2222,1791">
+<param ve-video vid="BoAetCE_vmY">
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>

@@ -2,7 +2,7 @@
 
 
 <param ve-config 
-       title="~kudzu ghosts~"
+       title="kudzu ghosts: an archive of loss"
        source-image="https://upload.wikimedia.org/wikipedia/commons/f/f6/Kudzu_graveyard_%2851748%29.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/f/f6/Kudzu_graveyard_%2851748%29.jpg"
        author="Elaina Foley"

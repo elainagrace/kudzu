@@ -21,11 +21,17 @@ height="750">
 ### Thinking with Vines
 [_Kudzu_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) has a Latin name. However, very few people know its true name. Neither God nor man would be able to understand it.
 <param ve-iframe src="https://archive.org/details/CAT87203516/page/n1/mode/2up">
+
 ### Moving with Vines
 View a historic video of kudzu.
 <param ve-video vid="BoAetCE_vmY">
+
+### Specimen
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0169064">
+
+### Photograph
 <param ve-image label="Kudzu 'King and Queen' in as crowned at a high school in 1945 Alabama" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/8/88/Kudzu_Queen-King.jpg" region="-444,105,2222,1791">
+
 ### Curtain
 <param ve-compare curtain label="Kudzu and House in Tuscaloosa County, Alabama" description="Photograph" license="public domain" url="Kudzu House, Tuscaloosa County.jpg">
 <param ve-compare label="Tree shrouded in kudzu" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/41/Tree_shrouded_in_kudzu_%2840589p%29.jpg">

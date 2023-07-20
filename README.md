@@ -27,12 +27,16 @@ View a historic video of kudzu.
 <param ve-video vid="BoAetCE_vmY">
 
 ### Specimen
+Yes
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0169064">
 
 ### Photograph
+Ooops
 <param ve-image label="Kudzu 'King and Queen' in as crowned at a high school in 1945 Alabama" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/8/88/Kudzu_Queen-King.jpg" region="-444,105,2222,1791">
 
+
 ### Curtain
+Beep hop
 <param ve-compare curtain label="Kudzu and House in Tuscaloosa County, Alabama" description="Photograph" license="public domain" url="Kudzu House, Tuscaloosa County.jpg">
 <param ve-compare label="Tree shrouded in kudzu" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/41/Tree_shrouded_in_kudzu_%2840589p%29.jpg">
 <param ve-entity eid="Q155" title="Brazil">

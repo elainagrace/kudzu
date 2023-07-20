@@ -29,11 +29,11 @@ View a historic video of kudzu.
 
 ### Specimen
 Yes
-<param ve-map title="world map" center="38.919255, -77.059659" zoom="6">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/elainagrace/kudzu/main/map.json">
 
 ### Photograph
 Ooops
+<param ve-map title="world map" center="38.919255, -77.059659" zoom="6">
 <param ve-image label="Kudzu 'King and Queen' in as crowned at a high school in 1945 Alabama" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/8/88/Kudzu_Queen-King.jpg" region="-444,105,2222,1791">
 
 

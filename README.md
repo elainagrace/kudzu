@@ -25,10 +25,11 @@ height="750">
 ### Moving with Vines
 View a historic video of kudzu.
 <param ve-video vid="BoAetCE_vmY">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0169064">
 
 ### Specimen
 Yes
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0169064">
+<param ve-map>
 
 ### Photograph
 Ooops

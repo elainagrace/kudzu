@@ -28,7 +28,7 @@ View a historic video of kudzu.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0169064">
 
 ### Specimen
-Yes
+Yes <span data-mouseover-map-flyto="38.919255, -77.059659, 14">Natal</span>.
 <param ve-map=layer geojson url="https://raw.githubusercontent.com/elainagrace/kudzu/main/map.json">
 
 ### Photograph

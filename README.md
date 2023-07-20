@@ -29,7 +29,7 @@ View a historic video of kudzu.
 
 ### Specimen
 Yes
-<param ve-map title="world map">
+<param ve-map title="world map" center="38.919255, -77.059659" zoom="6">
 
 ### Photograph
 Ooops

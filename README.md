@@ -29,7 +29,7 @@ View a historic video of kudzu.
 
 ### Specimen
 Yes
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/elainagrace/kudzu/main/map.json">
+<param ve-map=layer geojson url="https://raw.githubusercontent.com/elainagrace/kudzu/main/map.json">
 
 ### Photograph
 Ooops
